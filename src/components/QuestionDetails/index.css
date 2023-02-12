@@ -1,0 +1,22 @@
+.list-bg {
+    background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+    width: 350px;
+    height: 100px;
+    margin: 25px;
+}
+
+
+.student-heading {
+    font-family: "Roboto";
+    color: red;
+    font-size: 24px;
+}
+
+
+.student-answer {
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}

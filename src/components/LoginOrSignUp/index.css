@@ -1,0 +1,28 @@
+.background-container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content-bg {
+    width: 350px;
+    background-color: white;
+    height: 350px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 25px;
+}
+
+.button {
+    height: 36px;
+    width: 86px;
+    background-color: blue;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+}
